@@ -125,5 +125,5 @@ ffmpeg推流 视频源 H264 + ACC
 
 # 参考
 
-nginx-rtmp-module `https://github.com/arut/nginx-rtmp-module`
-nginx-rtmp-module wiki `https://github.com/arut/nginx-rtmp-module/wiki/Directives#exec_record_done`
+- nginx-rtmp-module `https://github.com/arut/nginx-rtmp-module`
+- nginx-rtmp-module wiki `https://github.com/arut/nginx-rtmp-module/wiki/Directives#exec_record_done`
